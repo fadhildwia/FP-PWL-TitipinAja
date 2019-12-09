@@ -1,10 +1,17 @@
+<?php
+
+
+?>
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <title>Bootstrap Part 1 : Pengertian dan Cara Menggunakan Bootstrap</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <!-- Bootstrap dan JQuery -->
+    <!-- Bootstrap dan JQuery -->
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-4.4.1/bootstrap.css">
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-4.4.1/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="assets/css/font-awesome/font-awesome.min.css">
@@ -15,16 +22,14 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
     integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
-
-
-
   <!-- Home CSS -->
   <link rel="stylesheet" type="text/css" href="assets/css/home.css">
-
+  
+    <title>TitipinAja</title>
 </head>
 
 <body>
-  <!-- Navigation -->
+    <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <a class="navbar-brand mx-5" href="#">
       <img src="assets/image/512px-Bootstrap_logo.svg.png" width="30" height="30" class="d-inline-block align-top"
@@ -205,7 +210,6 @@
     </div>
   </footer>
   <!-- End -->
-
 </body>
 
 </html>
